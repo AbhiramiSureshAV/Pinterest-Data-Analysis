@@ -15,4 +15,4 @@ This project analyzes Pinterest data to extract meaningful insights and trends. 
 ## Requirements
 Install the necessary dependencies using:
 ```bash
-pip install -r requirements.txt# Pinterest-Data-Analysis
+pip install -r requirements.txt
